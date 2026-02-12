@@ -1,0 +1,22 @@
+
+{
+  "short_name": "會員中心",
+  "name": "LINE 品牌會員中心",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/icon192/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/icon512/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#F9FAFB",
+  "display": "standalone",
+  "theme_color": "#06C755",
+  "description": "LINE 品牌會員中心 - 外部網域存取版"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "LINE Member Center (LIFF) Prototype",
+  "description": "A high-fidelity prototype of a LINE Member Center LIFF application featuring membership registration, points management, rewards redemption, and lucky draws.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
